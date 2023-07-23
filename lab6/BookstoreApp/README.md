@@ -13,5 +13,7 @@ website images :
 <br> ![image](img/lab6-7.PNG) <br>
 test before:
 <br> ![image](img/lab6-8.PNG) <br>
+test 3:
+<br> ![image](img/lab6-10.PNG) <br>
 test after:
 <br> ![image](img/lab6-9.PNG) <br>
