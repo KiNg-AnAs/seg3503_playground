@@ -24,16 +24,15 @@ DODGY CODE<br>
 5.Condition has no effect<br>
 6.Condition has no effect<br>
 ### correction de bugs
-
-    Before: <br>
+Before: <br>
 if ( s == "" ) <br>
     After: <br>
 if (s.isEmpty())<br>
   
-    Before: <br>
+Before: <br>
 setVisible(true); //in Main.java<br>
     
-    After:<br>
+ After:<br>
 public CalCFrame(String title) {<br>
 
   super(title);<br>
